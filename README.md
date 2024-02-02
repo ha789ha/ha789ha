@@ -1,7 +1,7 @@
 <h3>반갑습니다! 👋</h3>
 
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://geonlee.tistory.com/)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://ha789ha.tistory.com/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Hajun-9f51548b16754b5fb4f71c1ca642a97b)
 
 - 데이터 사이언티스트를 꿈꾸는 이하준입니다.
