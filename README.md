@@ -24,3 +24,4 @@
 - [토지특성 구축 공간정보 활용 AI 모델 개발](https://github.com/ha789ha/lx_ubai)
 - [Cartoon TTS](https://github.com/AI-LeGo)
 - [2023 AICOSS](https://github.com/ha789ha/AICOSS)
+- [2025 Samsung Challenge](https://github.com/ha789ha/samsung_ai_challenge)
