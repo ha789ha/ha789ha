@@ -45,11 +45,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | 2025 Samsung AI Challenge 관련 코드 및 리포지토리 | `Pytorch` |
-| [**KB AI Challenge**](https://github.com/ha789ha/kb_ai_challenge) | 금융 특화 AI 모델 개발 챌린지 | `Python` |
+| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | 2025 Samsung AI Challenge 관련 코드 및 리포지토리 | `Object detection` 'Document Understanding' |
+| [**KB AI Challenge**](https://github.com/ha789ha/kb_ai_challenge) | 금융 특화 AI 모델 개발 챌린지 | `Agent`, 'LLM' |
 | [**Cartoon TTS**](https://github.com/AI-LeGo) | **AI 웹툰 오디오북 프로젝트**<br/>Image Captioning과 TTS를 결합하여 웹 배포 | `Multimodal` `TTS` |
-| [**AICOSS**](https://github.com/ha789ha/AICOSS) | AICOSS 해커톤 프로젝트 리포지토리 | `AI` |
-| [**LX Spatial AI**](https://github.com/ha789ha/lx_ubai) | **공간정보 활용 모델 개발**<br/>토지 특성 구축 및 공간 정보 활용 AI 모델 | `Data Analysis` |
-| [**Gene Classification**](https://github.com/ha789ha/gene_dacon) | **유전체 정보 품종 분류**<br/>유전체 정보를 활용한 품종 분류 AI 모델 개발 | `Bioinformatics` |
+| [**AICOSS**](https://github.com/ha789ha/AICOSS) | AICOSS 해커톤 | `Image Segmentation` |
+| [**LX Spatial AI**](https://github.com/ha789ha/lx_ubai) | **공간정보 활용 모델 개발**<br/>토지 특성 구축 및 공간 정보 활용 AI 모델 | `Object detection` |
+| [**Gene Classification**](https://github.com/ha789ha/gene_dacon) | **유전체 정보 품종 분류**<br/>유전체 정보를 활용한 품종 분류 AI 모델 개발 | `Classification` |
 
 <br/>
