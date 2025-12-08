@@ -53,10 +53,3 @@
 | [**Gene Classification**](https://github.com/ha789ha/gene_dacon) | **유전체 정보 품종 분류**<br/>유전체 정보를 활용한 품종 분류 AI 모델 개발 | `Bioinformatics` |
 
 <br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha789ha&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha789ha&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
