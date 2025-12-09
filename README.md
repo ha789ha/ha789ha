@@ -13,9 +13,14 @@
 
 ## 🧐 About Me
 
-배움을 통해 계속해서 성장하고자 합니다. [논문 스터디](https://www.notion.so/hunnxx/BearStew-Paper-Study-6aa195dfc3f84d849c4e63b12da689b9)를 통해 꾸준히 최신 트렌드를 따라잡고자 노력하고 있습니다.
+배움을 통해 **꾸준히 성장**하고자 하며, 이를 [**Notion**](https://www.notion.so/hunnxx/BearStew-Paper-Study-6aa195dfc3f84d849c4e63b12da689b9)에 기록하며 약 **50여 편의 논문**을 리뷰하고 공부하였습니다.
 
-**멀티모달**과 **RAG** 활용에 깊은 관심이 있습니다.
+**멀티모달**과 **RAG** 활용에 깊은 관심이 많습니다.
+
+‘**단계별 멀티 에이전트 기반 금융 분쟁 민원 작성 어시스턴트 프로젝트**’를 통해 **RAG 기반 멀티 에이전트 프레임워크**를 구축한 경험이 있습니다.  
+또한, ‘**AI 웹툰 오디오북 프로젝트**’에서는 **Image Captioning**과 **TTS**를 결합하여 **웹에 배포**한 경험이 있습니다.
+
+
 
 <br/>
 
@@ -45,11 +50,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | 2025 Samsung AI Challenge | `Object detection` `Document Understanding` |
-| [**KB AI Challenge**](https://github.com/ha789ha/kb_ai_challenge) | 금융 특화 AI 모델 개발 | `Agent` `LLM` |
+| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | **Document Understanding 모델 개발** | `Object Detection` `Document Understanding` |
+| [**KB AI Challenge**](https://github.com/ha789ha/kb_ai_challenge) | **금융 특화 AI 모델 개발** | `Agent` `LLM` `RAG` |
 | [**Cartoon TTS**](https://github.com/AI-LeGo) | **AI 웹툰 오디오북 프로젝트** | `Multimodal` `TTS` |
-| [**AICOSS**](https://github.com/ha789ha/AICOSS) | AICOSS 해커톤 | `Image Segmentation` |
-| [**LX Spatial AI**](https://github.com/ha789ha/lx_ubai) | **공간정보 활용 모델 개발** | `Object detection` |
+| [**AICOSS**](https://github.com/ha789ha/AICOSS) | **위성 이미지 다중객체 분류 모델 개발** | `Image Segmentation` |
+| [**LX Spatial AI**](https://github.com/ha789ha/lx_ubai) | **토지 형상 이미지 분류 모델 개발** | `Object Detection` `Vision` |
 | [**Gene Classification**](https://github.com/ha789ha/gene_dacon) | **유전체 정보 품종 분류 모델 개발** | `Classification` |
-
-<br/>
