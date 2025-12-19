@@ -50,9 +50,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | **Document Understanding 모델 개발** | `Object Detection` `Document Understanding` |
+| [**Samsung AI Challenge**](https://github.com/ha789ha/samsung_ai_challenge) | **Document Understanding 모델 개발** | `Multimodal` `Document Understanding` |
 | [**KB AI Challenge**](https://github.com/ha789ha/kb_ai_challenge) | **금융 특화 AI 모델 개발** | `Agent` `LLM` `RAG` |
-| [**Cartoon TTS**](https://github.com/AI-LeGo) | **AI 웹툰 오디오북 프로젝트** | `Multimodal` `TTS` |
-| [**AICOSS**](https://github.com/ha789ha/AICOSS) | **위성 이미지 다중객체 분류 모델 개발** | `Image Segmentation` |
+| [**Cartoon TTS**](https://github.com/AI-LeGo) | **AI 웹툰 오디오북 프로젝트** | `Multimodal` `TTS` `LLM`|
+| [**AICOSS**](https://github.com/ha789ha/AICOSS) | **위성 이미지 다중객체 분류 모델 개발** | `Image Segmentation` `Vision`|
 | [**LX Spatial AI**](https://github.com/ha789ha/lx_ubai) | **토지 형상 이미지 분류 모델 개발** | `Object Detection` `Vision` |
 | [**Gene Classification**](https://github.com/ha789ha/gene_dacon) | **유전체 정보 품종 분류 모델 개발** | `Classification` |
